@@ -1,0 +1,10 @@
+{{url}} = http://localhost/SP-RodiYago/public/
+
+ADMIN (id: 1, email:maggierodi@gmail.com, tipo: admin):
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImlkIjoxLCJlbWFpbCI6Im1hZ2dpZXJvZGlAZ21haWwuY29tIiwidGlwbyI6ImFkbWluIn19.wBnbr4SAgInUL4NyEDMgbbnctOTtxTEHFqJ4NMl9ML0
+
+PROFESOR (id:2, email:lunaroy@hotmail.com, tipo: profesor) :
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImlkIjoyLCJlbWFpbCI6Imx1bmFyb3lAaG90bWFpbC5jb20iLCJ0aXBvIjoicHJvZmVzb3IifX0.rapxm28f18CcpCTsXlOHmsM_-92VxVMXjf8whMXR1Bg
+
+ALUMNO (id:11, email: pepe@mail.com, tipo: alumno) :
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImlkIjoxMSwiZW1haWwiOiJwZXBlQG1haWwuY29tIiwidGlwbyI6ImFsdW1ubyJ9fQ.Ot-bFW02EVFW6s6iAQF9RuHw9vj4i1hKL2OZi1YU1Gc

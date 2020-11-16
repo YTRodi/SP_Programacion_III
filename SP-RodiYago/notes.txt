@@ -1,0 +1,13 @@
+Para gestionar las base de datos usamos Eloquent ( Es parte del framework Laravel ): https://packagist.org/packages/illuminate/database
+¿Qué es? 
+    -es un ORM ( Modelo Objeto Relacional ).
+    -Empareja una tabla con un modelo.
+
+Vamos a tener que definir este ORM, este modelo: https://laravel.com/docs/8.x/eloquent
+    -Estos modelos van a mapear con la tabla 
+    -Timestamps:
+        -puedo agregar los campos: 'created_at' y 'updated_at' del tipo TIMESTAMP en phpmyadmin
+        -son marcas de tiempo cuando se inserta o se modifica en la DB. 
+
+Middleware:
+    -Funcion manejadora, lo agregamos con ->add( function () {});
